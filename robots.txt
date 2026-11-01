@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /ho-so/
 Sitemap: https://phamcongtuwto-png.github.io/linhnamhome/sitemap.xml
